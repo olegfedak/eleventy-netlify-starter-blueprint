@@ -3,7 +3,7 @@ title: What is Lorem Ipsum?
 image: /static/img/hero-img.png
 description: What is Lorem Ipsum?
 author: "## Lorem Ipsum"
-date: 2023-04-10T14:27:58.227Z
+date: 2023-04-10T17:27
 ---
 ## What is Lorem Ipsum?
 
